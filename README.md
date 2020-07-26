@@ -2,7 +2,7 @@
 
 ## ImageMatcher
 
-The goal of the `ImageMatcher` is to read two images (left and right/second image) and their corresponding keylines and descriptors (from the Network) to match their descriptors. The result of the binary descriptor matching is shown as a single image with visualized keylines (and their matches).
+The goal of the `ImageMatcher` is to read two images (left and right/second image) and their corresponding keylines and descriptors (from the Network) to match their descriptors. The result of the descriptor matching is shown as a single image with visualized keylines (and their matches).
 
 We used `Python (3.6.9)` and `opencv-contrib-python (4.0.1.24)`.
 
